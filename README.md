@@ -16,9 +16,9 @@ My ultimate goal is to become a full-fledged Front-End Developer and contribute 
 - When I'm not coding, you’ll find me exploring graphic design and animation!
 
 📫 **Get in Touch**  
-- 🌐 [Portfolio Website](#) _(Coming Soon!)_  
-- 📩 [Email Me](mailto:parniankarimian2005@gmail.com)  
-- 🔗 [LinkedIn](#https://www.linkedin.com/in/parnian-karimian-a73855285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 🌐 [Portfolio Website](#) _(Coming Soon!)_
+- 🔗 [LinkedIn](https://www.linkedin.com/in/parnian-karimian/)  
+- 📩 [Email Me](mailto:parnian.karimian@example.com)
 - 🌟 [GitHub Repositories](https://github.com/parniankarimian)
 
 Feel free to explore my repositories and watch my journey as I grow in the world of web development. Thank you for stopping by! 🙌
