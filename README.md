@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Parnian Karimian
 
 🌟 **About Me**  
-I'm Parnian Karimian, a 19-year-old aspiring Front-End Developer. My journey in web development started recently, and I’ve been diving into technologies like **HTML**, **CSS**, and **JavaScript** to bring beautiful and functional websites to life.
+I'm Parnian Karimian, a Front-End Developer. My journey in web development started recently, and I’ve been diving into technologies like **HTML**, **CSS**, and **JavaScript** to bring beautiful and functional websites to life.
 
 🚀 **What I’m Working On**  
 - Building responsive, user-friendly websites and web applications.
